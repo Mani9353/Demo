@@ -6,6 +6,6 @@
 <h3 align="center">
 🚀 Smart AI Powered Hackathon Project
 </h3>
-![Version](https://img.shields.io/badge/version-1.0-blue)
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-orange)
+<a href="images/dashboard.png">
+  <img src="images/dashboard.png" width="850"/>
+</a>
