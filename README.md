@@ -6,6 +6,8 @@
 <h3 align="center">
 🚀 Smart AI Powered Hackathon Project
 </h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+ANTIGRAVITY;AI+Powered+System;Hackathon+Winning+Project;Built+with+Innovation+🚀"/>
-</p>
+![Version](https://img.shields.io/badge/version-1.0-blue)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-orange)
+![Hackathon](https://img.shields.io/badge/Hackathon-QNX24-purple)
+![Status](https://img.shields.io/badge/status-active-success)
