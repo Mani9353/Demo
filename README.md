@@ -7,5 +7,6 @@
 🚀 Smart AI Powered Hackathon Project
 </h3>
 <a href="images/dashboard.png">
-  <img src="images/dashboard.png" width="850"/>
+  <img width="960" height="1280" alt="doll" src="https://github.com/user-attachments/assets/d5347f4c-d71a-466f-ac5f-e9b74e5aee4a" />
+
 </a>
