@@ -9,5 +9,3 @@
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-orange)
-![Hackathon](https://img.shields.io/badge/Hackathon-QNX24-purple)
-![Status](https://img.shields.io/badge/status-active-success)
