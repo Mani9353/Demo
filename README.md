@@ -1,6 +1,6 @@
 # Demo
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=ANTIGRAVITY&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=QNX&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h3 align="center">
